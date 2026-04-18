@@ -73,4 +73,4 @@ This project focuses on the analysis of CMOS device characteristics at cryogenic
 
 ## 🔹 Author
 
-**Milan Singh**
+**Milan Singh Rathore**
